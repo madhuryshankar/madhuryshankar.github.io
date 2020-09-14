@@ -1,0 +1,9 @@
+Create directory:
+
+git clone "link"
+
+To sync to server:
+
+git add -A
+git commit -m "name"
+git push
